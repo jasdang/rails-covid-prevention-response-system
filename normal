@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20200519125215_remove_role_from_citizens.rb
